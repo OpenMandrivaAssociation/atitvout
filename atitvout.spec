@@ -7,7 +7,6 @@ License: 	GPL
 Source: 	%name-%version.tar.bz2
 Patch:		atitvout-0.4-cflags.patch.bz2
 URL: 		http://www.stud.uni-hamburg.de/users/lennart/projects/atitvout/
-BuildRoot: 	%_tmppath/%name-buildroot
 
 %description
 TV-OUT support tool for ATI Rage Mobility graphic cards.
