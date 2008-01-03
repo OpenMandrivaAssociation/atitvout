@@ -1,7 +1,7 @@
 Summary:	Config tool for ATI Rage Mobility TV-OUT
 Name: 		atitvout
 Version: 	0.4
-Release:	 %mkrel 2
+Release:	 %mkrel 3
 Group: 		System/Configuration/Hardware
 License: 	GPL
 Source: 	%name-%version.tar.bz2
