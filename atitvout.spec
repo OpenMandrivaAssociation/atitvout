@@ -7,6 +7,7 @@ License: 	GPL
 Source: 	%name-%version.tar.bz2
 Patch:		atitvout-0.4-cflags.patch.bz2
 URL: 		http://www.stud.uni-hamburg.de/users/lennart/projects/atitvout/
+ExclusiveArch: %ix86
 BuildRoot: 	%_tmppath/%name-buildroot
 
 %description
