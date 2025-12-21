@@ -10,6 +10,7 @@ URL: 		https://www.stud.uni-hamburg.de/users/lennart/projects/atitvout/
 ExclusiveArch: %ix86
 BuildRoot: 	%_tmppath/%name-buildroot
 
+BuildRequires:	make
 %description
 TV-OUT support tool for ATI Rage Mobility graphic cards.
 Install it ONLY if you have an ATI Rage Mobility graphic card
